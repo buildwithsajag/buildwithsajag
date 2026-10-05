@@ -85,7 +85,7 @@ flowchart LR
 | 🤖 Agent | 📝 What it does | 🧰 Stack |
 |---|---|---|
 | **[Agentic_Chatbot_With_HITL](https://agentic-chatbot-with-hitl-10.onrender.com/)** | Autonomous research agent that searches, reads, critiques, and remembers | `LangGraph` `Groq` `Tavilly Serch` |
-| **[Realestatepricepredictormlproject]( real-estate-price-predictor.streamlit.app)** | One-line description of your second project | `Scikit-learn` `Streamlit` |
+| **[Realestatepricepredictormlproject](https://real-estate-price-predictor-fgsf7jiewl2fkae95wvbk8.streamlit.app/)** | One-line description of your second project | `Scikit-learn` `Streamlit` |
 
 
 > 💡 Replace the rows above with your real repos. Pin your best 4 to 6 repos on your profile as well.
