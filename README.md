@@ -105,8 +105,6 @@ flowchart LR
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=buildwithsajag&bg_color=0d1117&color=00f5a0&line=00f5a0&point=ffffff&area=true&hide_border=true" />
-
 </div>
 
 ---
