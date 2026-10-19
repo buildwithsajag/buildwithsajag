@@ -88,7 +88,7 @@ flowchart LR
 | **[Realestatepricepredictormlproject](https://real-estate-price-predictor-fgsf7jiewl2fkae95wvbk8.streamlit.app/)** | One-line description of your second project | `Scikit-learn` `Streamlit` |
 
 
-> 💡 Replace the rows above with your real repos. Pin your best 4 to 6 repos on your profile as well.
+
 
 ---
 
